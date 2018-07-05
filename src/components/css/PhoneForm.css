@@ -1,0 +1,13 @@
+.phoneForm{
+    border: 0.25rem solid lightgray;
+    display: inline-block;
+    padding: 1rem;
+    border-radius: 8px;
+}
+.phoneForm input{
+    border-radius: 8px;
+    border:0;
+    outline:0;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
